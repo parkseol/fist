@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#517B8B</color>#046380 // 앱 이름창
+    <color name="colorPrimaryDark">#002F2F</color>303F9F //상단바 화면표시줄
+    <color name="colorAccent">#EFECCA</color>
+    <color name="bg">#C4D1E1</color>
+</resources>
